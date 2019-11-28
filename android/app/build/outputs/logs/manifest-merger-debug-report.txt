@@ -1,0 +1,480 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [:react-native-screens] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/0ecdeac19d0de99e3ebb1770b749e330/AndroidManifest.xml:2:1-13:12
+MERGED from [:expo-permissions] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/0a1699fd8c59c18bd3c022e473eec4f5/AndroidManifest.xml:17:1-22:12
+MERGED from [:unimodules-react-native-adapter] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-app-loader-provider] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:expo-sqlite] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/254e6ed2a3419f44ac3936c637a28241/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/dbd9c4a4b93cb1826953ef484c0b55c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/69dfab651441d63bf5620c8037e50a0b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/be69af8400a39c9940c9e43fae945136/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/932227ddaf9a25d910ca5f3d384c5fde/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/1d3624c033be878c9eea7d7368fe5974/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/29438911f692deeeaffc867d9764822b/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/9c6411dffa42754c796687fbd22fe7fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/dbb12a3ccb25f9c930a70cc86b03d420/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/7a934bccefa6ed602fe7ebef8142bf5d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/a036d95547b70dce4c79ef16a1ad51e2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/1f77d390d7cec19f59ea65f64c17429d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/d860d09acff9b3945814f565708d9ecf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/093b8a028c769142ceaf76977bfc5c38/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f4ae6ff13181bd621ce66ca38902de15/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b8bbe8c8eb2eb42767a8e3eb8f6bc2ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/c16ca7cec5eae5f50a6d8f7f07415fac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/6b32c86814c0c4391f1f9721b2ebfe6b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/e80c8bf77417d42d5a11c1682ed71578/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/586ef00ee7798f8e70da9bca199ae46d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/1a7732b3ece9f04d577091d587005dae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/16ffd6e3210563bbd6596cbb87ab3410/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/f0cb052be5d6a62e602cf9e549319bdc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/61a396ce9308e88b0a9bdc1e9ece45a9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/81222fd2edbb3b1a675df18906b9699a/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/257765e87847d00ca4f618ce10b8589f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/efdbe993566455a265da26e3f79dd88e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/497c5a1e8a3b143f4d262b4588f2c553/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/d9b26431b7edb38341868a41e5f85ee0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/d03f8948c7fa12a44079544a7baeb45b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/c34d306d3cea8250affe22285ff167eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/0b0c43ae68ca4046d955029592cdb46c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/8ff98df09e5bacab6c86a9e365f47f2b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/39501d60fabc009768f4c5bc4e0c892f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/8406d50247bbc048212be4200411bf93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/93eb2947263aedb99ad9466b64b3c6b3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.10.0.aar/cc3656873197e1e0f62ffa8379e49364/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5df8921fbf05561d383fcba05522e4bc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.10.0.aar/baac5156f2e1273245a5c2a0c8e01418/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.10.0.aar/b42a626245a41e9b646e4efe2267305e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.10.0.aar/a952aa3b0c4aff3154c1cd5343a42644/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/5764b86bf6548b81c196fc89a9a5f78f/AndroidManifest.xml:2:1-13:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.10.0.aar/8afa777fd5bb03b66ad36ea3e0757365/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:2:5-24
+		INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:16:5-81
+MERGED from [:expo-location] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:17:5-79
+MERGED from [:expo-location] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:19:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:22:5-80
+MERGED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:24:5-81
+MERGED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:25:22-70
+application
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:28:5-46:19
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/0ecdeac19d0de99e3ebb1770b749e330/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/0ecdeac19d0de99e3ebb1770b749e330/AndroidManifest.xml:11:5-20
+MERGED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/69dfab651441d63bf5620c8037e50a0b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/69dfab651441d63bf5620c8037e50a0b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/be69af8400a39c9940c9e43fae945136/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/be69af8400a39c9940c9e43fae945136/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/932227ddaf9a25d910ca5f3d384c5fde/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/932227ddaf9a25d910ca5f3d384c5fde/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/1d3624c033be878c9eea7d7368fe5974/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/1d3624c033be878c9eea7d7368fe5974/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/29438911f692deeeaffc867d9764822b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/29438911f692deeeaffc867d9764822b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/dbb12a3ccb25f9c930a70cc86b03d420/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/dbb12a3ccb25f9c930a70cc86b03d420/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/61a396ce9308e88b0a9bdc1e9ece45a9/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/61a396ce9308e88b0a9bdc1e9ece45a9/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/81222fd2edbb3b1a675df18906b9699a/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/81222fd2edbb3b1a675df18906b9699a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/93eb2947263aedb99ad9466b64b3c6b3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/93eb2947263aedb99ad9466b64b3c6b3/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/5764b86bf6548b81c196fc89a9a5f78f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/5764b86bf6548b81c196fc89a9a5f78f/AndroidManifest.xml:11:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/61a396ce9308e88b0a9bdc1e9ece45a9/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:30:7-39
+	android:roundIcon
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:32:7-52
+	android:icon
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:31:7-41
+	android:allowBackup
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:33:7-34
+	android:theme
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:34:7-38
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:29:7-38
+activity#com.rendy.MainActivity
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:35:7-44:18
+	android:label
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:37:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:39:9-51
+	android:configChanges
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:38:9-79
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:36:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:40:9-43:25
+action#android.intent.action.MAIN
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:41:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:42:13-73
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:42:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:45:7-84
+	android:name
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml:45:17-81
+uses-sdk
+INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-screens] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/0ecdeac19d0de99e3ebb1770b749e330/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/0ecdeac19d0de99e3ebb1770b749e330/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/0a1699fd8c59c18bd3c022e473eec4f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/0a1699fd8c59c18bd3c022e473eec4f5/AndroidManifest.xml:20:5-44
+MERGED from [:unimodules-react-native-adapter] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/254e6ed2a3419f44ac3936c637a28241/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/254e6ed2a3419f44ac3936c637a28241/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/dbd9c4a4b93cb1826953ef484c0b55c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/dbd9c4a4b93cb1826953ef484c0b55c5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/69dfab651441d63bf5620c8037e50a0b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/69dfab651441d63bf5620c8037e50a0b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/be69af8400a39c9940c9e43fae945136/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/be69af8400a39c9940c9e43fae945136/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/932227ddaf9a25d910ca5f3d384c5fde/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/932227ddaf9a25d910ca5f3d384c5fde/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/1d3624c033be878c9eea7d7368fe5974/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/1d3624c033be878c9eea7d7368fe5974/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/29438911f692deeeaffc867d9764822b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/29438911f692deeeaffc867d9764822b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/9c6411dffa42754c796687fbd22fe7fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/9c6411dffa42754c796687fbd22fe7fd/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/dbb12a3ccb25f9c930a70cc86b03d420/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/dbb12a3ccb25f9c930a70cc86b03d420/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/7a934bccefa6ed602fe7ebef8142bf5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/7a934bccefa6ed602fe7ebef8142bf5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/a036d95547b70dce4c79ef16a1ad51e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/a036d95547b70dce4c79ef16a1ad51e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/1f77d390d7cec19f59ea65f64c17429d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/1f77d390d7cec19f59ea65f64c17429d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/d860d09acff9b3945814f565708d9ecf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/d860d09acff9b3945814f565708d9ecf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/093b8a028c769142ceaf76977bfc5c38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/093b8a028c769142ceaf76977bfc5c38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f4ae6ff13181bd621ce66ca38902de15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f4ae6ff13181bd621ce66ca38902de15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b8bbe8c8eb2eb42767a8e3eb8f6bc2ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/b8bbe8c8eb2eb42767a8e3eb8f6bc2ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/c16ca7cec5eae5f50a6d8f7f07415fac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/c16ca7cec5eae5f50a6d8f7f07415fac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/6b32c86814c0c4391f1f9721b2ebfe6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/6b32c86814c0c4391f1f9721b2ebfe6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/e80c8bf77417d42d5a11c1682ed71578/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/e80c8bf77417d42d5a11c1682ed71578/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/586ef00ee7798f8e70da9bca199ae46d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/586ef00ee7798f8e70da9bca199ae46d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/1a7732b3ece9f04d577091d587005dae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/1a7732b3ece9f04d577091d587005dae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/16ffd6e3210563bbd6596cbb87ab3410/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/16ffd6e3210563bbd6596cbb87ab3410/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/f0cb052be5d6a62e602cf9e549319bdc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/f0cb052be5d6a62e602cf9e549319bdc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/61a396ce9308e88b0a9bdc1e9ece45a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/61a396ce9308e88b0a9bdc1e9ece45a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/81222fd2edbb3b1a675df18906b9699a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/81222fd2edbb3b1a675df18906b9699a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/257765e87847d00ca4f618ce10b8589f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/257765e87847d00ca4f618ce10b8589f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/efdbe993566455a265da26e3f79dd88e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/efdbe993566455a265da26e3f79dd88e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/497c5a1e8a3b143f4d262b4588f2c553/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/497c5a1e8a3b143f4d262b4588f2c553/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/d9b26431b7edb38341868a41e5f85ee0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/d9b26431b7edb38341868a41e5f85ee0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/d03f8948c7fa12a44079544a7baeb45b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/d03f8948c7fa12a44079544a7baeb45b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/c34d306d3cea8250affe22285ff167eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/c34d306d3cea8250affe22285ff167eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/0b0c43ae68ca4046d955029592cdb46c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/0b0c43ae68ca4046d955029592cdb46c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/8ff98df09e5bacab6c86a9e365f47f2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/8ff98df09e5bacab6c86a9e365f47f2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/39501d60fabc009768f4c5bc4e0c892f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/39501d60fabc009768f4c5bc4e0c892f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/8406d50247bbc048212be4200411bf93/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/8406d50247bbc048212be4200411bf93/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/93eb2947263aedb99ad9466b64b3c6b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/93eb2947263aedb99ad9466b64b3c6b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.10.0.aar/cc3656873197e1e0f62ffa8379e49364/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.10.0.aar/cc3656873197e1e0f62ffa8379e49364/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5df8921fbf05561d383fcba05522e4bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5df8921fbf05561d383fcba05522e4bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.10.0.aar/baac5156f2e1273245a5c2a0c8e01418/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.10.0.aar/baac5156f2e1273245a5c2a0c8e01418/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.10.0.aar/b42a626245a41e9b646e4efe2267305e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.10.0.aar/b42a626245a41e9b646e4efe2267305e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.10.0.aar/a952aa3b0c4aff3154c1cd5343a42644/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.10.0.aar/a952aa3b0c4aff3154c1cd5343a42644/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/5764b86bf6548b81c196fc89a9a5f78f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/5764b86bf6548b81c196fc89a9a5f78f/AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.10.0.aar/8afa777fd5bb03b66ad36ea3e0757365/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.10.0.aar/8afa777fd5bb03b66ad36ea3e0757365/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/giuliogola/Desktop/React Native/Apps/Trendy/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] /Users/giuliogola/Desktop/React Native/Apps/Trendy/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/be69af8400a39c9940c9e43fae945136/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/be69af8400a39c9940c9e43fae945136/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/be69af8400a39c9940c9e43fae945136/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/be69af8400a39c9940c9e43fae945136/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/29438911f692deeeaffc867d9764822b/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/29438911f692deeeaffc867d9764822b/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/29438911f692deeeaffc867d9764822b/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/giuliogola/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/34a6d413a08c2f85ec431a252b3cbd7c/AndroidManifest.xml:26:13-120
